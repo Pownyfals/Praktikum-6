@@ -19,6 +19,9 @@ namespace modul6_1302201135
             dataTeam.ReadJSON();
             Console.WriteLine();
 
+            GlossaryItem glossary = new GlossaryItem();
+            glossary.ReadJSON();
+            Console.WriteLine();
         }
     }
 }
