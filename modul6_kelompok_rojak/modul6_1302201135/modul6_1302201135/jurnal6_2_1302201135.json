@@ -1,0 +1,32 @@
+{
+  "members" : [
+    {
+       "firstName": "Syabila",
+       "lastName": "Ilma ",
+       "gender": "female",
+       "age": 19,
+       "nim": "1302201130"
+    },
+    {
+       "firstName": "Abdullah",
+       "lastName": "Razqy",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302202072"
+    },
+    {
+      "firstName": "Zacharia",
+      "lastName": "Bachtiar",
+      "gender": "male",
+      "age": 19,
+      "nim": "1302203120"
+    },
+    {
+      "firstName": "Kevin",
+      "lastName": "Febrian",
+      "gender": "male",
+      "age": 19,
+      "nim": "1302204081"
+    }
+  ]
+}

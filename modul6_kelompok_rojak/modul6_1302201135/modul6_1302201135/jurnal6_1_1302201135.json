@@ -1,0 +1,22 @@
+{
+   "firstName": "Ismi",
+   "lastName": "Wardanita",
+   "gender": "female",
+   "age": 20,
+   "address": {
+       "streetAddress": "Sebengkok",
+       "city": "Tarakan",
+       "state": "North Borneo"
+   },
+  "courses": [
+    {
+      "code": "CRI2C4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+
+    {
+      "code": "CII3B4",
+      "name": "Pemrograman Berbasis Objek"
+    }
+  ]
+}
