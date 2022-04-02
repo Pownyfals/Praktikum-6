@@ -1,0 +1,45 @@
+{
+  "firstName": "Kevin",
+  "lastName": "Febrian",
+  "gender": "male",
+  "age": 20,
+  "address": {
+    "streetAddress": "Rancasari",
+    "city": "Bandung",
+    "state": "Jawa Barat"
+  },
+  "courses": [
+    {
+      "code": "CRI2C4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "CII3B4",
+      "name": "Pemrograman Berbasis Objek"
+    },
+    {
+      "code": "CRI3C3",
+      "name": "Pengalaman Pengguna"
+    },
+    {
+      "code": "CRI2D3",
+      "name": "Kecerdasan Buatan"
+    },
+    {
+      "code": "CRI2F2",
+      "name": "Proyek Tingkat II"
+    },
+    {
+      "code": "CRI2G1",
+      "name": "Teknologi Perangkat Lunak Untuk Masyarakat"
+    },
+    {
+      "code": "CII2A3",
+      "name": "Arsitektur dan Organisasi Komputer"
+    },
+    {
+      "code": "CRI2E4",
+      "name": "Basis Data"
+    }
+  ]
+}
