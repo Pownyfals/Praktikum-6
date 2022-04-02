@@ -6,9 +6,10 @@ namespace modul6_kelompok_rojak
     {
         static void Main(string[] args)
         {
-            DataMahasiswa_1302202072 r = new DataMahasiswa_1302202072();
-            r.readJson();
-
+            DataMahasiswa_1302204081 kevin = new DataMahasiswa_1302204081();
+            kevin.readJson();
+            TeamMembers_1302204081 m = new TeamMembers_1302204081();
+            m.readJson();
         }
     }
 }
