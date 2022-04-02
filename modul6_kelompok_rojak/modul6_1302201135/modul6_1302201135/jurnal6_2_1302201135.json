@@ -11,15 +11,22 @@
        "firstName": "Abdullah",
        "lastName": "Razqy",
        "gender": "male",
-       "age": 32,
-       "nim": "5678568567"
+       "age": 20,
+       "nim": "1302202072"
     },
     {
-       "firstName": "Emily",
-       "lastName": "Jones",
-       "gender": "female",
-       "age": 24,
-       "nim": "456754675"
+      "firstName": "Zacharia",
+      "lastName": "Bachtiar",
+      "gender": "male",
+      "age": 19,
+      "nim": "1302203120"
+    },
+    {
+      "firstName": "Kevin",
+      "lastName": "Febrian",
+      "gender": "male",
+      "age": 19,
+      "nim": "1302204081"
     }
   ]
 }

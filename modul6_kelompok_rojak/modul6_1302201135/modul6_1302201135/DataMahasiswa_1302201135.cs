@@ -9,7 +9,7 @@ using Newtonsoft.Json.Linq;
 
 namespace modul6_1302201135
 {
-	internal class DataMahasiswa
+	public class DataMahasiswa
 	{
 		public void ReadJSON()
 		{
