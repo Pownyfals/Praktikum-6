@@ -15,6 +15,8 @@ namespace modul6_kelompok_rojak
             DataMahasiswa_1302203120.readJson();
             Console.WriteLine("");
             TeamMembers_1302203120.readJson();
+            Console.WriteLine("");
+            GlosarryItem_1302203120.readJson ();
 
         }
     }
