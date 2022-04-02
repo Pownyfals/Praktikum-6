@@ -1,4 +1,11 @@
 ﻿using System;
+using System.Text.Json;
+using System.Text.Json;
+using System.IO;
+using System.Net.Http.Json;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
+
 
 namespace modul6_kelompok_rojak
 
@@ -22,10 +29,14 @@ namespace modul6_kelompok_rojak
             GlossaryItem_1302204081 glossaryItem = new GlossaryItem_1302204081();
             glossaryItem.readJSON();
             Console.WriteLine("==============================");
-
-
-           
+            //punya jek
+            DataMahasiswa_1302203120.readJson();
+            Console.WriteLine("");
+            TeamMembers_1302203120.readJson();
+            Console.WriteLine("");
+            GlosarryItem_1302203120.readJson ();
 
         }
     }
+
 }

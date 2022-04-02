@@ -1,0 +1,25 @@
+{
+  "members" : [
+    {
+      "firstName": "Razqy",
+      "lastName": "Aqil",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302202072"
+    },
+    {
+      "firstName": "Kevin",
+      "lastName": "Febrian",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302204081"
+    },
+    {
+      "firstName": "Ismi",
+      "lastName": "Wardanita",
+      "gender": "female",
+      "age": 20,
+      "nim": "1302201135"
+    }
+  ]
+}
