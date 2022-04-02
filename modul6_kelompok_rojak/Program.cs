@@ -12,6 +12,7 @@ namespace modul6_kelompok_rojak
             member.readJson();
             GlossaryItem_1302204081 glossaryItem = new GlossaryItem_1302204081();
             glossaryItem.readJSON();
+            Console.WriteLine("==============================");
         }
     }
 }
