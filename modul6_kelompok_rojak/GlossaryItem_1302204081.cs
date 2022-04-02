@@ -21,10 +21,25 @@ namespace modul6_kelompok_rojak
 				string jsonString = r.ReadToEnd();
 				JObject parsed = JObject.Parse(jsonString);
 
-				var glossaryEntry = parsed["glossaryEntry"];
-				
-				Console.WriteLine(glossaryEntry);
-			}catch (Exception ex)
+				//akses glossary
+				var glossary = parsed["glossary"];
+				//akses glossdiv dalam glossary
+				var glossDiv = glossary["GlossDiv"];
+				//akses glosslist dalam glossdiv
+				var glossList = glossDiv["GlossList"];
+				//akses gloss entry dalam gloss list
+				var glossEntry = glossList["GlossEntry"];
+				//akses setiap isi dalam glosslist
+				var glossDef = glossEntry["GlossDef"];
+
+				Console.WriteLine("ID: {0} \nSortAs: {1} GlossTerm: {2} \nAcronym: {3}\nAbbrev: " +
+								  "{4} \nGlossDefPara: {5} \nGlossDefSee: 1. {6} 2. {7}  \nGlossSee: {8}"
+									,
+								  glossEntry["ID"], glossEntry["SortAs"], glossEntry["GlossTerm"], glossEntry["Acronym"], glossEntry["Abbrev"],
+								  glossDef["para"], glossDef["GlossSeeAlso"][0], glossDef["GlossSeeAlso"][1],
+								  glossEntry["GlossSee"]);
+			}
+			catch (Exception ex)
 			{
 				Console.WriteLine(ex.ToString());	
 			}
