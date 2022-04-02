@@ -11,6 +11,9 @@ namespace modul6_kelompok_rojak
 
             teamMembers_1302202072 t = new teamMembers_1302202072();
             t.readJson();
+
+            GlossaryItem_1302202072 g = new GlossaryItem_1302202072();  
+            g.readJson();
         }
     }
 }
