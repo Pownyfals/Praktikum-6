@@ -1,15 +1,15 @@
 {
-   "firstName": "John",
-   "lastName": "Doe",
+   "firstName": "Zacharia",
+   "lastName": "Bachtiar",
    "gender": "male",
-   "age": 25,
+   "age": 20,
    "address": {
-       "streetAddress": "Mengger",
-       "city": "Bandung",
+       "streetAddress": "Taman Tempo",
+       "city": "Bekasi",
        "state": "West Java"
    },
    "courses": [
        { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
-       { "code": "CRI2XX", "name": "Nama Mata Kuliah" }
+       { "code": "CRI2XX", "name": "Basis Data" }
    ]
 }
