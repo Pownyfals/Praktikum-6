@@ -2,14 +2,14 @@
   "members" : [
     {
        "firstName": "Syabila",
-       "lastName": "Ilma",
-       "gender": "male",
-       "age": 28,
-       "nim": "7349282382"
+       "lastName": "Ilma ",
+       "gender": "female",
+       "age": 19,
+       "nim": "1302201130"
     },
     {
-       "firstName": "James",
-       "lastName": "Smith",
+       "firstName": "Abdullah",
+       "lastName": "Razqy",
        "gender": "male",
        "age": 32,
        "nim": "5678568567"

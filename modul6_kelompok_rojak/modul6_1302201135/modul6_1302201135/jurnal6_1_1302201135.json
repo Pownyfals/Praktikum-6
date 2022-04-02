@@ -8,8 +8,15 @@
        "city": "Tarakan",
        "state": "North Borneo"
    },
-   "courses": [
-       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
-       { "code": "CRI2XX", "name": "Nama Mata Kuliah" }
-   ]
+  "courses": [
+    {
+      "code": "CRI2C4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+
+    {
+      "code": "CII3B4",
+      "name": "Pemrograman Berbasis Objek"
+    }
+  ]
 }
