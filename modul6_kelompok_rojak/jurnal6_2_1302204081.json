@@ -1,0 +1,39 @@
+{
+  "members": [
+    {
+      "firstName": "Kevin",
+      "lastName": "Febrian",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302204081"
+    },
+    {
+      "firstName": "Zacharia",
+      "lastName": "Bachtiar",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302203120"
+    },
+    {
+      "firstName": "Abdullah",
+      "lastName": "Razqy Aqil",
+      "gender": "Male",
+      "age": 20,
+      "nim": "1302202072"
+    },
+    {
+      "firstName": "Ismi",
+      "lastName": "Wardanita",
+      "gender": "Female",
+      "age": 20,
+      "nim": "1302201135"
+    },
+    {
+      "firstName": "Syabila",
+      "lastName": "Ilma Elsani",
+      "gender": "Female",
+      "age": 20,
+      "nim": "1302201130"
+    }
+  ]
+}
